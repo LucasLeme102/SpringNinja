@@ -1,4 +1,4 @@
-package com.SpringFiasco.FiascoSpring;
+package com.SpringFiasco.FiascoSpring.Ninjas;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
