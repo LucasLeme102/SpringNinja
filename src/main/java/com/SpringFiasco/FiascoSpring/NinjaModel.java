@@ -7,10 +7,10 @@ import jakarta.persistence.*;
 public class NinjaModel {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    Long id;
-    String name;
-    String email;
-    int idade;
+    private Long id;
+    private String name;
+    private String email;
+    private int idade;
 
     public NinjaModel(){
     }
